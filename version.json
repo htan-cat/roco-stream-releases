@@ -1,0 +1,7 @@
+{
+  "version_code": 2,
+  "version_name": "0.2.0",
+  "apk_url": "https://github.com/htan-cat/roco-stream-releases/releases/download/v0.2.0/roco-stream-0.2.0-preview.apk",
+  "sha256": "6f3c36a58d251e58791ebd30b36cc16a415c7f978001d7b59b459f602125d21f",
+  "notes": "首个预览版：原生悬浮球、原始包查看、本地解析与 Linux 调试。采集需配合独立 VPN 工具。"
+}
